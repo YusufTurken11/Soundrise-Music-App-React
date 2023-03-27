@@ -12,6 +12,7 @@ Installation
 2. Type "git clone https://github.com/YusufTurken11/Soundrise-Music-App-React.git" to copy all files into your project folder
 3. Type "npm install" to install all dependencies
 4. Type "npm start" to run app
-5. Open browser type into search bar "localhost:3000" click enter and you are ready to go
+5. Open browser type into search bar "localhost:3000" and hit the enter.
+6. You are ready to listen.
 
 If you have any question about app you can mail me any time yusuftrken@outlook.com
