@@ -9,7 +9,7 @@ I will update login section asap but for now you cant use it.
 Installation
 -----------
 1. Open Terminal on your vscode
-2. Type "https://github.com/YusufTurken11/Soundrise-Music-App-React.git" to copy all files into your project folder
+2. Type "git clone https://github.com/YusufTurken11/Soundrise-Music-App-React.git" to copy all files into your project folder
 3. Type "npm install" to install all dependencies
 4. Type "npm start" to run app
 5. Open browser type into search bar "localhost:3000" click enter and you are ready to go
