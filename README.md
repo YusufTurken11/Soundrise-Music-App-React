@@ -15,4 +15,4 @@ Installation
 5. Open browser type into search bar "localhost:3000" and hit the enter.
 6. You are ready to listen.
 
-If you have any question about app you can mail me any time yusuftrken@outlook.com
+If you have any issue or question about app you can mail me any time yusuftrken@outlook.com
