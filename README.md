@@ -6,7 +6,7 @@ This React app alows you to play music, change genre, search etc.
 I will update login section asap but for now you cant use it.
 
 
-Istallation
+Installation
 -----------
 1. Open Terminal on your vscode
 2. Type "https://github.com/YusufTurken11/Soundrise-Music-App-React.git" to copy all files into your project folder
